@@ -1,0 +1,1916 @@
+[
+  {
+    "id": "headphones",
+    "name": "NoiseShield Wireless Headphones",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 999,
+    "mrp": 1499,
+    "rating": "4.6",
+    "reviews": "12,430",
+    "badge": "Deal of the day",
+    "details": "Deep bass audio, soft cushions and 35 hours of battery life.",
+    "specs": [
+      "Bluetooth 5.3",
+      "Fast charge",
+      "Voice assistant ready"
+    ],
+    "keywords": [
+      "audio",
+      "wireless",
+      "headphones",
+      "music",
+      "accessories"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "wireless-earbuds",
+    "name": "PocketBass Wireless Earbuds",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1499,
+    "mrp": 2999,
+    "rating": "4.5",
+    "reviews": "11,406",
+    "badge": "Earbuds deal",
+    "details": "Compact wireless earbuds with punchy bass and pocket charging case.",
+    "specs": [
+      "30 hour playtime",
+      "Low-latency mode",
+      "IPX4 splash resistant"
+    ],
+    "keywords": [
+      "earbuds",
+      "earphones",
+      "wireless",
+      "audio",
+      "accessories"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "neckband-earphones",
+    "name": "FlexTune Neckband Earphones",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 899,
+    "mrp": 1799,
+    "rating": "4.3",
+    "reviews": "7,331",
+    "badge": "Audio saver",
+    "details": "Flexible neckband earphones for workouts, calls and travel.",
+    "specs": [
+      "Magnetic buds",
+      "Fast charge",
+      "Clear calling mic"
+    ],
+    "keywords": [
+      "earphones",
+      "neckband",
+      "audio",
+      "wireless",
+      "accessories"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "wired-earphones",
+    "name": "ClearCall Wired Earphones",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 399,
+    "mrp": 799,
+    "rating": "4.1",
+    "reviews": "5,604",
+    "badge": "Best value",
+    "details": "Reliable wired earphones with in-line mic for calls and classes.",
+    "specs": [
+      "3.5 mm jack",
+      "In-line remote",
+      "Tangle-free cable"
+    ],
+    "keywords": [
+      "earphones",
+      "wired earphones",
+      "audio",
+      "accessories"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "laptop",
+    "name": "ProBook Thin Laptop 15",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 75000,
+    "mrp": 82990,
+    "rating": "4.4",
+    "reviews": "8,216",
+    "badge": "Exchange offer",
+    "details": "A slim performance laptop for classes, office work and streaming.",
+    "specs": [
+      "15 inch display",
+      "512 GB SSD",
+      "All-day battery"
+    ],
+    "keywords": [
+      "laptop",
+      "computer",
+      "work",
+      "student",
+      "office"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "ultrabook",
+    "name": "FeatherLite Ultrabook 14",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 58999,
+    "mrp": 71999,
+    "rating": "4.5",
+    "reviews": "4,314",
+    "badge": "Laptop deal",
+    "details": "A light ultrabook for students, office work and travel.",
+    "specs": [
+      "14 inch display",
+      "16 GB RAM",
+      "1.2 kg body"
+    ],
+    "keywords": [
+      "laptop",
+      "ultrabook",
+      "computer",
+      "accessories"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "gaming-laptop",
+    "name": "TurboPlay Gaming Laptop",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 89999,
+    "mrp": 109999,
+    "rating": "4.4",
+    "reviews": "2,786",
+    "badge": "Gaming laptop",
+    "details": "A high-refresh gaming laptop for work, play and streaming.",
+    "specs": [
+      "RTX graphics",
+      "144Hz display",
+      "RGB keyboard"
+    ],
+    "keywords": [
+      "laptop",
+      "gaming laptop",
+      "computer",
+      "accessories"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "smartwatch",
+    "name": "ActiveFit Smart Watch",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 35000,
+    "mrp": 41500,
+    "rating": "4.5",
+    "reviews": "4,908",
+    "badge": "Limited stock",
+    "details": "Fitness tracking, calling support and a bright always-on display.",
+    "specs": [
+      "Heart-rate monitor",
+      "Water resistant",
+      "7 day battery"
+    ],
+    "keywords": [
+      "watch",
+      "fitness",
+      "wearable",
+      "accessories",
+      "women",
+      "men"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "shoes",
+    "name": "StreetRun Men Comfort Shoes",
+    "department": "shoes",
+    "image": "https://unsplash.com/photos/i8OruGmFXtw/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/i8OruGmFXtw/download?force=true&w=900",
+      "https://unsplash.com/photos/3CYgX0q9vxE/download?force=true&w=900",
+      "https://unsplash.com/photos/gHYXdod2XZo/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 9000,
+    "mrp": 11999,
+    "rating": "4.2",
+    "reviews": "2,142",
+    "badge": "Bestseller",
+    "details": "Cushioned running shoes with a lightweight everyday fit.",
+    "specs": [
+      "Memory foam insole",
+      "Breathable knit",
+      "Anti-skid sole"
+    ],
+    "keywords": [
+      "men",
+      "shoes",
+      "sneakers",
+      "fashion",
+      "sports"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "mobile",
+    "name": "Nova 5G Mobile Phone",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 60000,
+    "mrp": 69999,
+    "rating": "4.7",
+    "reviews": "15,720",
+    "badge": "Prime pick",
+    "details": "A fast 5G phone with a crisp display and pro-grade camera setup.",
+    "specs": [
+      "128 GB storage",
+      "Triple camera",
+      "65W charging"
+    ],
+    "keywords": [
+      "mobile",
+      "phone",
+      "5g",
+      "camera",
+      "accessories"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "budget-mobile",
+    "name": "Spark Mini 5G Mobile",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 18999,
+    "mrp": 24999,
+    "rating": "4.2",
+    "reviews": "9,834",
+    "badge": "Mobile offer",
+    "details": "A compact 5G phone with smooth display and strong battery backup.",
+    "specs": [
+      "6.4 inch display",
+      "5000 mAh battery",
+      "Dual camera"
+    ],
+    "keywords": [
+      "mobile",
+      "phone",
+      "5g",
+      "budget mobile",
+      "accessories"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "clock",
+    "name": "Classic Desk Clock",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1501139083538-0139583c060f?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1501139083538-0139583c060f?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1501139083538-0139583c060f?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 6000,
+    "mrp": 7250,
+    "rating": "4.3",
+    "reviews": "1,304",
+    "badge": "New arrival",
+    "details": "A clean desk clock for bedrooms, study tables and workspaces.",
+    "specs": [
+      "Silent sweep",
+      "Metal body",
+      "Easy-read dial"
+    ],
+    "keywords": [
+      "clock",
+      "home",
+      "kids",
+      "study",
+      "desk"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "trail-sneakers",
+    "name": "AirFlex Men Trail Sneakers",
+    "department": "shoes",
+    "image": "https://unsplash.com/photos/3CYgX0q9vxE/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/3CYgX0q9vxE/download?force=true&w=900",
+      "https://unsplash.com/photos/gHYXdod2XZo/download?force=true&w=900",
+      "https://unsplash.com/photos/i8OruGmFXtw/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 2499,
+    "mrp": 4999,
+    "rating": "4.4",
+    "reviews": "6,824",
+    "badge": "55% off",
+    "details": "Lightweight sneakers for casual wear, travel and evening walks.",
+    "specs": [
+      "Foam sole",
+      "Mesh upper",
+      "6 color options"
+    ],
+    "keywords": [
+      "men",
+      "shoes",
+      "sneakers",
+      "fashion"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "men-formal-shoes",
+    "name": "Boardroom Men Formal Shoes",
+    "department": "shoes",
+    "image": "https://unsplash.com/photos/fI8nPSn4s5I/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/fI8nPSn4s5I/download?force=true&w=900",
+      "https://unsplash.com/photos/wwNAo9TeekQ/download?force=true&w=900",
+      "https://unsplash.com/photos/O4NQV4rAr2A/download?force=true&w=900",
+      "https://unsplash.com/photos/kunCvIyfu50/download?force=true&w=900"
+    ],
+    "price": 3299,
+    "mrp": 5499,
+    "rating": "4.2",
+    "reviews": "2,781",
+    "badge": "Office pick",
+    "details": "Polished formal shoes for office, weddings and evening events.",
+    "specs": [
+      "Synthetic leather",
+      "Cushioned footbed",
+      "Slip-resistant sole"
+    ],
+    "keywords": [
+      "men",
+      "formal shoes",
+      "office shoes",
+      "footwear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "oxford-shirt",
+    "name": "UrbanFit Oxford Shirt",
+    "department": "men",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1299,
+    "mrp": 2199,
+    "rating": "4.1",
+    "reviews": "3,902",
+    "badge": "Trending",
+    "details": "A crisp cotton shirt with a relaxed office-to-evening fit.",
+    "specs": [
+      "Pure cotton",
+      "Regular fit",
+      "Machine washable"
+    ],
+    "keywords": [
+      "men",
+      "shirt",
+      "fashion",
+      "clothing"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "denim-jacket",
+    "name": "DenimGo Casual Jacket",
+    "department": "men",
+    "image": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1999,
+    "mrp": 3299,
+    "rating": "4.3",
+    "reviews": "1,844",
+    "badge": "Season pick",
+    "details": "A sturdy denim layer for travel, weekends and casual styling.",
+    "specs": [
+      "Washed denim",
+      "Four pockets",
+      "Regular fit"
+    ],
+    "keywords": [
+      "men",
+      "jacket",
+      "denim",
+      "fashion"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "mens-hoodie",
+    "name": "CoreWarm Men Hoodie",
+    "department": "men",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1523398002811-999ca8dec234?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1599,
+    "mrp": 2499,
+    "rating": "4.4",
+    "reviews": "3,116",
+    "badge": "Winter deal",
+    "details": "A soft fleece hoodie for travel, casual workdays and weekends.",
+    "specs": [
+      "Cotton blend",
+      "Kangaroo pocket",
+      "Ribbed cuffs"
+    ],
+    "keywords": [
+      "men",
+      "hoodie",
+      "clothing",
+      "winter wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "mens-tshirt",
+    "name": "DailySoft Men T-Shirt Pack",
+    "department": "men",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 899,
+    "mrp": 1499,
+    "rating": "4.3",
+    "reviews": "6,047",
+    "badge": "Combo offer",
+    "details": "Breathable crew-neck T-shirts for daily casual wear.",
+    "specs": [
+      "Pack of 3",
+      "Bio-washed cotton",
+      "Regular fit"
+    ],
+    "keywords": [
+      "men",
+      "tshirt",
+      "clothing",
+      "casual wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "mens-chinos",
+    "name": "FlexiFit Men Chinos",
+    "department": "men",
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1399,
+    "mrp": 2299,
+    "rating": "4.1",
+    "reviews": "2,388",
+    "badge": "Smart casual",
+    "details": "Stretch chinos that work for office, college and travel.",
+    "specs": [
+      "Slim fit",
+      "Stretch fabric",
+      "Five pockets"
+    ],
+    "keywords": [
+      "men",
+      "pants",
+      "chinos",
+      "clothing"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "tote-bag",
+    "name": "LuxeCarry Tote Bag",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1799,
+    "mrp": 2999,
+    "rating": "4.5",
+    "reviews": "5,218",
+    "badge": "Hot deal",
+    "details": "A structured tote with space for phone, wallet, tablet and makeup.",
+    "specs": [
+      "Vegan leather",
+      "Zipper pocket",
+      "Adjustable strap"
+    ],
+    "keywords": [
+      "bag",
+      "handbag",
+      "fashion"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "summer-dress",
+    "name": "BloomWear Women Summer Dress",
+    "department": "women",
+    "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1899,
+    "mrp": 2999,
+    "rating": "4.5",
+    "reviews": "4,922",
+    "badge": "Style deal",
+    "details": "A breezy printed dress for brunch, travel and everyday styling.",
+    "specs": [
+      "A-line fit",
+      "Soft rayon",
+      "Machine washable"
+    ],
+    "keywords": [
+      "women",
+      "dress",
+      "women wear",
+      "fashion"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "floral-kurti",
+    "name": "EthnicAura Women Floral Kurti",
+    "department": "women",
+    "image": "https://unsplash.com/photos/kN3tHdXDDrs/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/kN3tHdXDDrs/download?force=true&w=900",
+      "https://unsplash.com/photos/jhRqMA3_rTU/download?force=true&w=900",
+      "https://unsplash.com/photos/ee84eeVMkwc/download?force=true&w=900",
+      "https://unsplash.com/photos/2RMTiOaRM4Y/download?force=true&w=900"
+    ],
+    "price": 999,
+    "mrp": 1899,
+    "rating": "4.4",
+    "reviews": "6,110",
+    "badge": "Ethnic sale",
+    "details": "A comfortable floral kurti for office, college and festive days.",
+    "specs": [
+      "Cotton blend",
+      "Straight fit",
+      "Three-quarter sleeves"
+    ],
+    "keywords": [
+      "women",
+      "kurti",
+      "ethnic wear",
+      "women wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "silk-saree",
+    "name": "FestiveGlow Women Silk Saree",
+    "department": "women",
+    "image": "https://unsplash.com/photos/jFyEr_5d_7A/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/jFyEr_5d_7A/download?force=true&w=900",
+      "https://unsplash.com/photos/A7H3qmJTNJc/download?force=true&w=900",
+      "https://unsplash.com/photos/gGbFOyN7jZE/download?force=true&w=900",
+      "https://unsplash.com/photos/bskf4Jh9hY0/download?force=true&w=900"
+    ],
+    "price": 2499,
+    "mrp": 4999,
+    "rating": "4.6",
+    "reviews": "2,759",
+    "badge": "Festive pick",
+    "details": "A lightweight silk saree with a graceful festive border.",
+    "specs": [
+      "Silk blend",
+      "Includes blouse piece",
+      "6.3 m length"
+    ],
+    "keywords": [
+      "women",
+      "saree",
+      "ethnic wear",
+      "women wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "women-top",
+    "name": "CityChic Women Casual Top",
+    "department": "women",
+    "image": "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/mUoNLMhHCkU/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 799,
+    "mrp": 1499,
+    "rating": "4.2",
+    "reviews": "3,407",
+    "badge": "Everyday wear",
+    "details": "A polished casual top that pairs with jeans, skirts and trousers.",
+    "specs": [
+      "Relaxed fit",
+      "Soft fabric",
+      "Easy care"
+    ],
+    "keywords": [
+      "women",
+      "top",
+      "western wear",
+      "women wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "denim-skirt",
+    "name": "BlueLane Women Denim Skirt",
+    "department": "women",
+    "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1199,
+    "mrp": 1999,
+    "rating": "4.3",
+    "reviews": "1,988",
+    "badge": "New style",
+    "details": "A classic denim skirt for easy casual and weekend outfits.",
+    "specs": [
+      "Mid-rise fit",
+      "Washed denim",
+      "Five pockets"
+    ],
+    "keywords": [
+      "women",
+      "skirt",
+      "denim",
+      "women wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "women-blazer",
+    "name": "WorkMode Women Blazer",
+    "department": "women",
+    "image": "https://unsplash.com/photos/mUoNLMhHCkU/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/mUoNLMhHCkU/download?force=true&w=900",
+      "https://unsplash.com/photos/mUoNLMhHCkU/download?force=true&w=900",
+      "https://unsplash.com/photos/M7A6hujuavc/download?force=true&w=900",
+      "https://unsplash.com/photos/1lTFOJ-lQr0/download?force=true&w=900"
+    ],
+    "price": 2499,
+    "mrp": 4299,
+    "rating": "4.4",
+    "reviews": "2,214",
+    "badge": "Office wear",
+    "details": "A tailored blazer for meetings, interviews and smart casual looks.",
+    "specs": [
+      "Structured fit",
+      "Soft lining",
+      "Single button"
+    ],
+    "keywords": [
+      "women",
+      "blazer",
+      "office wear",
+      "women wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "palazzo-set",
+    "name": "ComfortLine Women Palazzo Set",
+    "department": "women",
+    "image": "https://unsplash.com/photos/K_ThIF04HqQ/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/K_ThIF04HqQ/download?force=true&w=900",
+      "https://unsplash.com/photos/AJ81X3pJBeE/download?force=true&w=900",
+      "https://unsplash.com/photos/Yn7u5DZ5JAI/download?force=true&w=900",
+      "https://unsplash.com/photos/K_ThIF04HqQ/download?force=true&w=900"
+    ],
+    "price": 1499,
+    "mrp": 2599,
+    "rating": "4.3",
+    "reviews": "3,748",
+    "badge": "Ethnic combo",
+    "details": "A relaxed kurta and palazzo set for office and daily wear.",
+    "specs": [
+      "Two-piece set",
+      "Breathable fabric",
+      "Relaxed fit"
+    ],
+    "keywords": [
+      "women",
+      "palazzo",
+      "ethnic wear",
+      "women wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "anarkali-set",
+    "name": "RoyalEase Women Anarkali Set",
+    "department": "women",
+    "image": "https://unsplash.com/photos/Yn7u5DZ5JAI/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/Yn7u5DZ5JAI/download?force=true&w=900",
+      "https://unsplash.com/photos/Yn7u5DZ5JAI/download?force=true&w=900",
+      "https://unsplash.com/photos/K_ThIF04HqQ/download?force=true&w=900",
+      "https://unsplash.com/photos/M7A6hujuavc/download?force=true&w=900"
+    ],
+    "price": 2199,
+    "mrp": 3999,
+    "rating": "4.5",
+    "reviews": "2,936",
+    "badge": "Festive wear",
+    "details": "A flowy Anarkali set for festive days, parties and family events.",
+    "specs": [
+      "Three-piece set",
+      "Flared fit",
+      "Dupatta included"
+    ],
+    "keywords": [
+      "women",
+      "anarkali",
+      "ethnic wear",
+      "women wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "lehenga-set",
+    "name": "FestiveCharm Women Lehenga Set",
+    "department": "women",
+    "image": "https://unsplash.com/photos/mowqKkbRbOw/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/mowqKkbRbOw/download?force=true&w=900",
+      "https://unsplash.com/photos/56zMvTb2VTs/download?force=true&w=900",
+      "https://unsplash.com/photos/AhaiR2xiqBA/download?force=true&w=900",
+      "https://unsplash.com/photos/mowqKkbRbOw/download?force=true&w=900"
+    ],
+    "price": 3299,
+    "mrp": 5999,
+    "rating": "4.5",
+    "reviews": "1,804",
+    "badge": "Wedding pick",
+    "details": "A festive lehenga set for weddings, receptions and celebrations.",
+    "specs": [
+      "Three-piece set",
+      "Embroidered finish",
+      "Dupatta included"
+    ],
+    "keywords": [
+      "women",
+      "lehenga",
+      "ethnic wear",
+      "women wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "salwar-suit",
+    "name": "DailyGrace Women Salwar Suit",
+    "department": "women",
+    "image": "https://unsplash.com/photos/AJ81X3pJBeE/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/AJ81X3pJBeE/download?force=true&w=900",
+      "https://unsplash.com/photos/AJ81X3pJBeE/download?force=true&w=900",
+      "https://unsplash.com/photos/mUoNLMhHCkU/download?force=true&w=900",
+      "https://unsplash.com/photos/K_ThIF04HqQ/download?force=true&w=900"
+    ],
+    "price": 1699,
+    "mrp": 2899,
+    "rating": "4.4",
+    "reviews": "2,528",
+    "badge": "Ethnic favorite",
+    "details": "A comfortable salwar suit set for workdays, college and family visits.",
+    "specs": [
+      "Three-piece set",
+      "Cotton blend",
+      "Easy wash"
+    ],
+    "keywords": [
+      "women",
+      "salwar suit",
+      "ethnic wear",
+      "women wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "women-heels",
+    "name": "Elegance Women Block Heels",
+    "department": "shoes",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/IurEsRsGtuY/download?force=true&w=900",
+      "https://unsplash.com/photos/jrOuxQ9iRlM/download?force=true&w=900",
+      "https://unsplash.com/photos/axyT3gifbSU/download?force=true&w=900"
+    ],
+    "price": 1799,
+    "mrp": 2999,
+    "rating": "4.2",
+    "reviews": "2,306",
+    "badge": "Party wear",
+    "details": "Comfort block heels for office outfits, parties and weddings.",
+    "specs": [
+      "2.5 inch heel",
+      "Cushioned sole",
+      "Anti-slip base"
+    ],
+    "keywords": [
+      "women shoes",
+      "heels",
+      "footwear",
+      "women"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "women-sneakers",
+    "name": "CloudStep Women Sneakers",
+    "department": "shoes",
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/i8OruGmFXtw/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/3CYgX0q9vxE/download?force=true&w=900"
+    ],
+    "price": 2199,
+    "mrp": 3999,
+    "rating": "4.5",
+    "reviews": "5,616",
+    "badge": "Comfort pick",
+    "details": "Lightweight sneakers designed for daily walking and casual looks.",
+    "specs": [
+      "Foam midsole",
+      "Breathable upper",
+      "Flexible outsole"
+    ],
+    "keywords": [
+      "women shoes",
+      "sneakers",
+      "footwear",
+      "women"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "women-flats",
+    "name": "DailyEase Women Flats",
+    "department": "shoes",
+    "image": "https://unsplash.com/photos/D4Go3V8lHDs/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/D4Go3V8lHDs/download?force=true&w=900",
+      "https://unsplash.com/photos/EFUME011ulA/download?force=true&w=900",
+      "https://unsplash.com/photos/nZQGm6KGtXk/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 899,
+    "mrp": 1599,
+    "rating": "4.1",
+    "reviews": "1,720",
+    "badge": "Daily wear",
+    "details": "Soft flats for errands, workdays and relaxed everyday wear.",
+    "specs": [
+      "Soft footbed",
+      "Slip-on style",
+      "Textured sole"
+    ],
+    "keywords": [
+      "women shoes",
+      "flats",
+      "footwear",
+      "women"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "beauty-kit",
+    "name": "GlowUp Makeup Kit",
+    "department": "beauty",
+    "image": "https://unsplash.com/photos/sYct_zI982g/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/sYct_zI982g/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1522338140262-f46f5913618a?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1499,
+    "mrp": 2499,
+    "rating": "4.6",
+    "reviews": "9,431",
+    "badge": "Beauty sale",
+    "details": "A compact makeup kit with daily essentials and travel-friendly shades.",
+    "specs": [
+      "12 shade palette",
+      "Dermat tested",
+      "Travel case"
+    ],
+    "keywords": [
+      "beauty",
+      "makeup",
+      "women",
+      "cosmetics"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "perfume",
+    "name": "AuraMist Signature Perfume",
+    "department": "beauty",
+    "image": "https://unsplash.com/photos/So4eFi-d1nc/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/So4eFi-d1nc/download?force=true&w=900",
+      "https://unsplash.com/photos/V8e6mCiXLz8/download?force=true&w=900",
+      "https://unsplash.com/photos/Ex0P6ldX384/download?force=true&w=900",
+      "https://unsplash.com/photos/OD08LTmdfEY/download?force=true&w=900"
+    ],
+    "price": 2199,
+    "mrp": 3999,
+    "rating": "4.4",
+    "reviews": "2,610",
+    "badge": "Gift pick",
+    "details": "A fresh floral perfume with warm notes for day and evening wear.",
+    "specs": [
+      "100 ml bottle",
+      "Long lasting",
+      "Gift box included"
+    ],
+    "keywords": [
+      "beauty",
+      "perfume",
+      "fragrance",
+      "women",
+      "gift"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "skincare-set",
+    "name": "HydraCare Skincare Set",
+    "department": "beauty",
+    "image": "https://unsplash.com/photos/0nH1XIq5rqw/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/0nH1XIq5rqw/download?force=true&w=900",
+      "https://unsplash.com/photos/1mp7rF7_j2I/download?force=true&w=900",
+      "https://unsplash.com/photos/RJ0v-mj0Yxs/download?force=true&w=900",
+      "https://unsplash.com/photos/BlcA2-o-7IM/download?force=true&w=900"
+    ],
+    "price": 1899,
+    "mrp": 2999,
+    "rating": "4.5",
+    "reviews": "4,117",
+    "badge": "Skin care",
+    "details": "A gentle cleanser, serum and moisturizer routine for daily glow.",
+    "specs": [
+      "Paraben free",
+      "All skin types",
+      "3 piece set"
+    ],
+    "keywords": [
+      "beauty",
+      "skin",
+      "skincare",
+      "women"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "hair-dryer",
+    "name": "SalonPro Hair Dryer",
+    "department": "beauty",
+    "image": "https://images.unsplash.com/photo-1522338140262-f46f5913618a?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1522338140262-f46f5913618a?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 2599,
+    "mrp": 4499,
+    "rating": "4.2",
+    "reviews": "1,932",
+    "badge": "Salon deal",
+    "details": "Fast drying with heat control and a folding travel handle.",
+    "specs": [
+      "1800W motor",
+      "Cool shot",
+      "Two nozzles"
+    ],
+    "keywords": [
+      "beauty",
+      "hair dryer",
+      "salon",
+      "women"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "lipstick-set",
+    "name": "VelvetMatte Lipstick Set",
+    "department": "beauty",
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/sYct_zI982g/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 999,
+    "mrp": 1799,
+    "rating": "4.4",
+    "reviews": "7,202",
+    "badge": "Makeup deal",
+    "details": "A five-shade lipstick set with smooth color and matte finish.",
+    "specs": [
+      "Pack of 5",
+      "Matte finish",
+      "Long wear"
+    ],
+    "keywords": [
+      "beauty",
+      "lipstick",
+      "makeup",
+      "cosmetics"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "nail-polish",
+    "name": "ColorPop Nail Polish Kit",
+    "department": "beauty",
+    "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 799,
+    "mrp": 1299,
+    "rating": "4.3",
+    "reviews": "3,640",
+    "badge": "Color combo",
+    "details": "Glossy nail colors for everyday style and festive looks.",
+    "specs": [
+      "Pack of 6",
+      "Quick dry",
+      "Chip resistant"
+    ],
+    "keywords": [
+      "beauty",
+      "nail polish",
+      "makeup",
+      "cosmetics"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "face-serum",
+    "name": "RadianceDrop Face Serum",
+    "department": "beauty",
+    "image": "https://unsplash.com/photos/CD8_3hYj-Vc/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/CD8_3hYj-Vc/download?force=true&w=900",
+      "https://unsplash.com/photos/D-CcjoOREow/download?force=true&w=900",
+      "https://unsplash.com/photos/mp_0M_EHL8Q/download?force=true&w=900",
+      "https://unsplash.com/photos/BlcA2-o-7IM/download?force=true&w=900"
+    ],
+    "price": 1299,
+    "mrp": 2299,
+    "rating": "4.5",
+    "reviews": "3,904",
+    "badge": "Glow care",
+    "details": "A lightweight serum for fresh-looking skin and daily hydration.",
+    "specs": [
+      "Vitamin C blend",
+      "Non-sticky",
+      "All skin types"
+    ],
+    "keywords": [
+      "beauty",
+      "serum",
+      "skincare",
+      "skin care"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "sunscreen",
+    "name": "SunGuard SPF 50 Sunscreen",
+    "department": "beauty",
+    "image": "https://unsplash.com/photos/BibJjO4sYrI/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/BibJjO4sYrI/download?force=true&w=900",
+      "https://unsplash.com/photos/3Uj7ttuo5kk/download?force=true&w=900",
+      "https://unsplash.com/photos/C5M8S9WuSjE/download?force=true&w=900",
+      "https://unsplash.com/photos/AuDD-ejVWLA/download?force=true&w=900"
+    ],
+    "price": 699,
+    "mrp": 1199,
+    "rating": "4.4",
+    "reviews": "5,336",
+    "badge": "Sun care",
+    "details": "A light SPF 50 sunscreen for everyday outdoor protection.",
+    "specs": [
+      "SPF 50 PA+++",
+      "No white cast",
+      "Water resistant"
+    ],
+    "keywords": [
+      "beauty",
+      "sunscreen",
+      "skincare",
+      "sun care"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "kajal-set",
+    "name": "EyeLine Kajal & Mascara Set",
+    "department": "beauty",
+    "image": "https://unsplash.com/photos/HIkyOG1RjDM/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/HIkyOG1RjDM/download?force=true&w=900",
+      "https://unsplash.com/photos/ERH3gVgCLv0/download?force=true&w=900",
+      "https://unsplash.com/photos/PWcJisX3Ak0/download?force=true&w=900",
+      "https://unsplash.com/photos/iJhFL2na3dM/download?force=true&w=900"
+    ],
+    "price": 899,
+    "mrp": 1499,
+    "rating": "4.3",
+    "reviews": "4,612",
+    "badge": "Eye makeup",
+    "details": "A smudge-resistant kajal and mascara combo for bold eye looks.",
+    "specs": [
+      "Waterproof",
+      "Deep black",
+      "Long wear"
+    ],
+    "keywords": [
+      "beauty",
+      "kajal",
+      "eyeliner",
+      "mascara",
+      "makeup"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "face-mask",
+    "name": "FreshGlow Sheet Mask Pack",
+    "department": "beauty",
+    "image": "https://unsplash.com/photos/-cLDUePhniU/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/-cLDUePhniU/download?force=true&w=900",
+      "https://unsplash.com/photos/26Y58Iz_-fo/download?force=true&w=900",
+      "https://unsplash.com/photos/BAPMUZJNyGs/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 599,
+    "mrp": 999,
+    "rating": "4.2",
+    "reviews": "2,781",
+    "badge": "Self care",
+    "details": "Hydrating sheet masks for quick glow before events or travel.",
+    "specs": [
+      "Pack of 5",
+      "Aloe enriched",
+      "10 minute routine"
+    ],
+    "keywords": [
+      "beauty",
+      "face mask",
+      "sheet mask",
+      "skincare"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "body-lotion",
+    "name": "SoftTouch Body Lotion",
+    "department": "beauty",
+    "image": "https://unsplash.com/photos/3Ha7bio1Lv8/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/3Ha7bio1Lv8/download?force=true&w=900",
+      "https://unsplash.com/photos/JnpHO7OjP5k/download?force=true&w=900",
+      "https://unsplash.com/photos/QrCEPudYVwE/download?force=true&w=900",
+      "https://unsplash.com/photos/YIaNRKnL1BU/download?force=true&w=900"
+    ],
+    "price": 499,
+    "mrp": 899,
+    "rating": "4.4",
+    "reviews": "6,020",
+    "badge": "Body care",
+    "details": "A nourishing lotion for soft, comfortable skin through the day.",
+    "specs": [
+      "Shea butter",
+      "Fast absorbing",
+      "400 ml bottle"
+    ],
+    "keywords": [
+      "beauty",
+      "lotion",
+      "body care",
+      "skincare"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "compact-powder",
+    "name": "FreshMatte Compact Powder",
+    "department": "beauty",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/sYct_zI982g/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 749,
+    "mrp": 1299,
+    "rating": "4.3",
+    "reviews": "3,118",
+    "badge": "Makeup base",
+    "details": "A smooth compact powder for fresh matte touch-ups anytime.",
+    "specs": [
+      "Oil control",
+      "Mirror included",
+      "Lightweight finish"
+    ],
+    "keywords": [
+      "beauty",
+      "compact",
+      "powder",
+      "foundation",
+      "makeup"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "kids-tshirt",
+    "name": "SunBee Kids Polka Dress",
+    "department": "kids",
+    "image": "https://images.unsplash.com/photo-1560506840-ec148e82a604?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1560506840-ec148e82a604?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1560859259-fcf2b952aed8?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/72l_I4s-hss/download?force=true&w=900",
+      "https://unsplash.com/photos/TXvCcWl3nEI/download?force=true&w=900"
+    ],
+    "price": 1299,
+    "mrp": 2199,
+    "rating": "4.6",
+    "reviews": "3,217",
+    "badge": "Polka cute",
+    "details": "A bright polka dress for birthdays, school events and family outings.",
+    "specs": [
+      "Soft cotton feel",
+      "Cheerful print",
+      "Easy everyday fit"
+    ],
+    "keywords": [
+      "kids",
+      "kids clothing",
+      "dress",
+      "polka dress",
+      "children wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "kids-hoodie",
+    "name": "RainbowTwirl Kids Dress Set",
+    "department": "kids",
+    "image": "https://images.unsplash.com/photo-1545007805-a44ee83438fa?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1545007805-a44ee83438fa?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1560859259-fcf2b952aed8?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/dwZjyFGWR2g/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1560506840-ec148e82a604?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1499,
+    "mrp": 2499,
+    "rating": "4.5",
+    "reviews": "1,862",
+    "badge": "Color pop",
+    "details": "A colorful dress set for playdates, parties and weekend shopping.",
+    "specs": [
+      "Bright prints",
+      "Soft fabrics",
+      "Mix-and-match styles"
+    ],
+    "keywords": [
+      "kids",
+      "kids clothing",
+      "dress set",
+      "colorful dress",
+      "children wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "kids-dress",
+    "name": "CottonCloud Kids Tee Set",
+    "department": "kids",
+    "image": "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1560859259-fcf2b952aed8?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/TXvCcWl3nEI/download?force=true&w=900",
+      "https://unsplash.com/photos/72l_I4s-hss/download?force=true&w=900"
+    ],
+    "price": 1199,
+    "mrp": 1999,
+    "rating": "4.5",
+    "reviews": "2,440",
+    "badge": "Soft tee",
+    "details": "A clean cotton tee set for simple daily dressing and school days.",
+    "specs": [
+      "Soft cotton",
+      "Crew neck style",
+      "Easy wash"
+    ],
+    "keywords": [
+      "kids",
+      "kids clothing",
+      "tee set",
+      "t-shirt",
+      "children wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "kids-jeans",
+    "name": "ClosetPop Kids Outfit Pack",
+    "department": "kids",
+    "image": "https://images.unsplash.com/photo-1670014541811-9b0ec280ed60?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1670014541811-9b0ec280ed60?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1622218286192-95f6a20083c7?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1560859259-fcf2b952aed8?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/TXvCcWl3nEI/download?force=true&w=900"
+    ],
+    "price": 1799,
+    "mrp": 2999,
+    "rating": "4.4",
+    "reviews": "1,531",
+    "badge": "Outfit pack",
+    "details": "A mixed kids outfit pack with easy pieces for weekly dressing.",
+    "specs": [
+      "Assorted styles",
+      "Soft layers",
+      "Daily comfort"
+    ],
+    "keywords": [
+      "kids",
+      "kids clothing",
+      "outfit pack",
+      "casual wear",
+      "children wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "kids-tutu-dress",
+    "name": "BlueBliss Kids Shorts Set",
+    "department": "kids",
+    "image": "https://images.unsplash.com/photo-1632337950445-ba446cb0e26f?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1632337950445-ba446cb0e26f?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/72l_I4s-hss/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1622218286192-95f6a20083c7?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1560859259-fcf2b952aed8?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1399,
+    "mrp": 2399,
+    "rating": "4.6",
+    "reviews": "2,109",
+    "badge": "Play day",
+    "details": "A light shorts set for summer play, picnics and easy everyday dressing.",
+    "specs": [
+      "Breathable fabric",
+      "Elastic waist",
+      "Soft blue finish"
+    ],
+    "keywords": [
+      "kids",
+      "kids clothing",
+      "shorts",
+      "summer wear",
+      "cute outfit"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "kids-princess-gown",
+    "name": "SunnyMini Kids Pinafore Shorts",
+    "department": "kids",
+    "image": "https://images.unsplash.com/photo-1632337948797-ba161d29532b?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1632337948797-ba161d29532b?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1560506840-ec148e82a604?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1622218286192-95f6a20083c7?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/72l_I4s-hss/download?force=true&w=900"
+    ],
+    "price": 2299,
+    "mrp": 3999,
+    "rating": "4.7",
+    "reviews": "1,806",
+    "badge": "Sunny style",
+    "details": "A cute pinafore shorts outfit for warm days, playdates and photos.",
+    "specs": [
+      "Button straps",
+      "Soft fabric",
+      "Playful fit"
+    ],
+    "keywords": [
+      "kids",
+      "kids clothing",
+      "pinafore shorts",
+      "summer wear",
+      "casual set"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "kids-floral-frock",
+    "name": "BearPrint Baby Onesie Set",
+    "department": "kids",
+    "image": "https://images.unsplash.com/photo-1622290291720-ac961c43ee30?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1622290291720-ac961c43ee30?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1560506840-ec148e82a604?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1560859259-fcf2b952aed8?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1632337950445-ba446cb0e26f?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1099,
+    "mrp": 1899,
+    "rating": "4.4",
+    "reviews": "2,936",
+    "badge": "Baby cute",
+    "details": "A soft printed onesie set for babies, gifting and cozy daily wear.",
+    "specs": [
+      "Bear print",
+      "Soft cotton feel",
+      "Easy changing"
+    ],
+    "keywords": [
+      "kids",
+      "baby clothing",
+      "onesie",
+      "printed set",
+      "children wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "kids-festive-dress",
+    "name": "TinyCharm Kids Flatlay Outfit",
+    "department": "kids",
+    "image": "https://unsplash.com/photos/72l_I4s-hss/download?force=true&w=900",
+    "gallery": [
+      "https://unsplash.com/photos/72l_I4s-hss/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1560506840-ec148e82a604?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1632337950445-ba446cb0e26f?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1560859259-fcf2b952aed8?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1999,
+    "mrp": 3499,
+    "rating": "4.5",
+    "reviews": "1,674",
+    "badge": "Cute outfit",
+    "details": "A sweet flatlay-style kids outfit for gifting, travel and cute daily wear.",
+    "specs": [
+      "Coordinated pieces",
+      "Soft sandals look",
+      "Photo-ready styling"
+    ],
+    "keywords": [
+      "kids",
+      "kids clothing",
+      "outfit set",
+      "flatlay outfit"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "boys-shirt-set",
+    "name": "LittleGent Boys Casual Set",
+    "department": "kids",
+    "image": "https://images.unsplash.com/photo-1571273134620-1ef375de9b84?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1571273134620-1ef375de9b84?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/K4t4HLjpYzg/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1632337948797-ba161d29532b?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1622218286192-95f6a20083c7?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 999,
+    "mrp": 1699,
+    "rating": "4.4",
+    "reviews": "1,348",
+    "badge": "Boys wear",
+    "details": "A simple boys casual set for outings, school events and easy play days.",
+    "specs": [
+      "Soft fabric",
+      "Easy movement",
+      "Comfort fit"
+    ],
+    "keywords": [
+      "kids",
+      "boys",
+      "casual set",
+      "shorts",
+      "kids wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "boys-suit-set",
+    "name": "MiniDapper Boys Hanger Set",
+    "department": "kids",
+    "image": "https://images.unsplash.com/photo-1604506847073-4a8e18e07d92?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1604506847073-4a8e18e07d92?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/dwZjyFGWR2g/download?force=true&w=900",
+      "https://unsplash.com/photos/TXvCcWl3nEI/download?force=true&w=900"
+    ],
+    "price": 2499,
+    "mrp": 4299,
+    "rating": "4.6",
+    "reviews": "982",
+    "badge": "Boys set",
+    "details": "A smart boys hanger set with easy pieces for parties and daily styling.",
+    "specs": [
+      "Layered options",
+      "Clean styling",
+      "Occasion-ready"
+    ],
+    "keywords": [
+      "kids",
+      "boys",
+      "hanger set",
+      "party wear",
+      "kids wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "boys-coat-set",
+    "name": "TinyTrail Boys Clothesline Set",
+    "department": "kids",
+    "image": "https://images.unsplash.com/photo-1685770101390-58e99f56202e?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1685770101390-58e99f56202e?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/TXvCcWl3nEI/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1622218286192-95f6a20083c7?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/72l_I4s-hss/download?force=true&w=900"
+    ],
+    "price": 1599,
+    "mrp": 2799,
+    "rating": "4.5",
+    "reviews": "1,121",
+    "badge": "Fresh set",
+    "details": "A fresh boys clothing set for easy daily wear, travel and school breaks.",
+    "specs": [
+      "Outdoor-ready",
+      "Soft basics",
+      "Easy pairing"
+    ],
+    "keywords": [
+      "kids",
+      "boys",
+      "clothesline set",
+      "daily wear",
+      "kids wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "boys-festive-set",
+    "name": "RoyalCub Boys Blue Onesie Set",
+    "department": "kids",
+    "image": "https://images.unsplash.com/photo-1622290319146-7b63df48a635?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1622290319146-7b63df48a635?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://unsplash.com/photos/72l_I4s-hss/download?force=true&w=900",
+      "https://images.unsplash.com/photo-1632337950445-ba446cb0e26f?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1622218286192-95f6a20083c7?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 1899,
+    "mrp": 3299,
+    "rating": "4.5",
+    "reviews": "874",
+    "badge": "Blue cute",
+    "details": "A cute blue onesie set for babies, gifting and soft everyday comfort.",
+    "specs": [
+      "Soft cotton feel",
+      "Easy changing",
+      "Coordinated look"
+    ],
+    "keywords": [
+      "kids",
+      "boys",
+      "blue onesie",
+      "baby wear",
+      "children wear"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "kids-backpack",
+    "name": "JuniorGo School Backpack",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 999,
+    "mrp": 1799,
+    "rating": "4.4",
+    "reviews": "2,004",
+    "badge": "School pick",
+    "details": "A light school backpack with bottle pockets and padded straps.",
+    "specs": [
+      "18L capacity",
+      "Water resistant",
+      "Padded back"
+    ],
+    "keywords": [
+      "kids",
+      "school",
+      "bag",
+      "backpack"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "gaming-headset",
+    "name": "GameRush RGB Headset",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 2999,
+    "mrp": 5299,
+    "rating": "4.6",
+    "reviews": "7,210",
+    "badge": "Gaming deal",
+    "details": "RGB gaming audio with a clear microphone and comfortable earcups.",
+    "specs": [
+      "Noise mic",
+      "USB lighting",
+      "Soft ear pads"
+    ],
+    "keywords": [
+      "gaming",
+      "headset",
+      "kids",
+      "accessories"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "camera",
+    "name": "PixelPro Travel Camera",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 45999,
+    "mrp": 52999,
+    "rating": "4.3",
+    "reviews": "1,108",
+    "badge": "Creator pick",
+    "details": "Compact camera for travel, content creation and family events.",
+    "specs": [
+      "24 MP sensor",
+      "4K video",
+      "Wi-Fi transfer"
+    ],
+    "keywords": [
+      "camera",
+      "photo",
+      "accessories",
+      "travel"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  },
+  {
+    "id": "water-bottle",
+    "name": "HydroSteel Sports Bottle",
+    "department": "accessories",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&h=900&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=900&h=900&q=80",
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&h=900&q=80"
+    ],
+    "price": 699,
+    "mrp": 1199,
+    "rating": "4.7",
+    "reviews": "8,003",
+    "badge": "Daily essential",
+    "details": "Insulated bottle for school, gym and weekend travel.",
+    "specs": [
+      "750 ml",
+      "Leak proof",
+      "Keeps cold 18 hours"
+    ],
+    "keywords": [
+      "kids",
+      "bottle",
+      "sports",
+      "accessories"
+    ],
+    "stockQuantity": 10,
+    "adminCreated": false
+  }
+]
