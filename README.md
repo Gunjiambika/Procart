@@ -114,8 +114,7 @@ npm run start:frontend
 - `GET /api/admin/products`
 - `PATCH /api/admin/orders/{orderId}/status`
   <img width="2879" height="1799" alt="Screenshot 2026-10-13 104615" src="https://github.com/user-attachments/assets/bd9b647b-8965-4d63-aa72-ff5cdbce57ce" />
+  <img width="2879" height="1799" alt="Screenshot 2026-10-13 104704" src="https://github.com/user-attachments/assets/97d5913d-2bf7-40e3-a55d-d8d56968d351" />
 
   <img width="2879" height="1722" alt="Screenshot 2026-10-13 104757" src="https://github.com/user-attachments/assets/8018573f-11e2-4766-a11f-577230bc4701" />
-<img width="2879" height="1799" alt="Screenshot 2026-10-13 104704" src="https://github.com/user-attachments/assets/97d5913d-2bf7-40e3-a55d-d8d56968d351" />
-<img width="2879" height="1799" alt="Screenshot 2026-10-13 104615" src="https://github.com/user-attachments/assets/bd9b647b-8965-4d63-aa72-ff5cdbce57ce" />
 
